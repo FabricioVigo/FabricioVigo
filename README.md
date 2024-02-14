@@ -1,16 +1,19 @@
-### Hi there 👋
+# ¡Hola, soy Fabri!
 
-<!--
-**FabricioVigo/FabricioVigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
 
-Here are some ideas to get you started:
+¡Hola! Soy un apasionado desarrollador frontend con experiencia en la creación de experiencias web excepcionales. Me encanta trabajar en proyectos desafiantes que me permitan aprender y crecer como profesional. Mi enfoque principal es crear interfaces de usuario intuitivas y atractivas que brinden una excelente experiencia al usuario.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades y herramientas
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,react,javascript,ts,next,tailwind," /> <img src="https://skillicons.dev/icons?i=postman,vscode,git,github,nodejs,express,mysql" />
+  </a>
+</p>
+
+## Contacto
+
+¡Me encantaría conectarme contigo! Puedes encontrarme en [LinkedIn](enlace) y [Twitter](enlace). También puedes visitar mi [sitio web personal](enlace) para conocer más sobre mí y mi trabajo.
+
+¡Gracias por visitar mi perfil!
