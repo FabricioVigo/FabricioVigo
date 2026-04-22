@@ -2,8 +2,7 @@
 
 ## Acerca de mí
 
-¡Hola! Soy un apasionado desarrollador frontend con experiencia en la creación de experiencias web excepcionales. Me encanta trabajar en proyectos desafiantes que me permitan aprender y crecer como profesional. Mi enfoque principal es crear interfaces de usuario intuitivas y atractivas que brinden una excelente experiencia al usuario.
-
+¡Hola! Soy un apasionado de la innovación y el emprendimiento digital, desarrollador web aprendiendo Data Analitycs.
 ## Habilidades y herramientas
 <br/>
 <p align="center">
